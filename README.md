@@ -31,4 +31,17 @@ TravelBookingSystem-main/
 Check Java installation:
 ```bash
 java --version
+.
+
+📌 Features
+
+Add and view destinations
+
+Create user accounts
+
+Book a destination
+
+Manage balance
+
+Console-based menu system
 
